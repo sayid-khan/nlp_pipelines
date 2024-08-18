@@ -1,5 +1,5 @@
 Flask
 gunicorn
 transformers
-tensorflow
+tensorflow-cpu
 sentencepiece
